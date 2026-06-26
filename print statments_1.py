@@ -6,7 +6,7 @@
 #object
 print("hello world")
 print(10)
-print("python",3.14)
+#print("python",3.14)
 #separator
 """print("A","B","C")
 print("A","B","C",sep="-")
